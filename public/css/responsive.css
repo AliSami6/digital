@@ -1,0 +1,144 @@
+@media screen and (max-width:568px){
+.branding {
+	padding-bottom:3%;
+}
+.abir-first-item{
+	margin-top:7%;
+	margin-bottom:10%;
+	padding-top:7px;
+}
+.board h2{
+	margin-left:12px;
+	top:7%;
+}
+.board button{
+	margin-left:20px;
+}
+.whatwedo-content img{
+	text-align:cneter;
+	margin:0 auto;
+	vertical-align:middle;
+	margin-left:15%;
+}
+}
+}
+@media screen and (max-width:900px){
+
+.branding {
+	padding-bottom:3%;
+}
+.abir-first-item{
+	margin-top:5%;
+	margin-bottom:5%;
+	padding-top:5px;
+}
+	
+.board h2{
+	margin-left:12px;
+	top:12px;
+}
+.board button{
+	margin-left:20px;
+}
+.whatwedo-content img{
+	text-align:cneter;
+	margin:0 auto;
+	vertical-align:middle;
+	margin-left:15%;
+}
+
+}
+
+@media screen and (max-width:800px){
+#banner{
+	width:100%;
+	height:1025px;
+}
+.branding {
+	padding-bottom:3%;
+}
+.abir-first-item{
+	margin-top:5%;
+	margin-bottom:5%;
+	padding-top:5px;
+}
+.board h2{
+	margin-left:12px;
+	top:7%;
+}
+.board button{
+	margin-left:28px;
+}
+.whatwedo-content img{
+	text-align:cneter;
+	vertical-align:middle;
+	margin-left:25%;
+}
+}
+
+}
+@media screen and (max-width:560px){
+.branding {
+	padding-bottom:1%;
+}
+.abir-first-item{
+	margin-top:5%;
+	margin-bottom:5%;
+	padding-top:5px;
+}
+.board h2{
+	margin-left:12px;
+	top:7%;
+}
+.board button{
+	margin-left:20px;
+}
+
+.swiper-one .swiper-content{
+	width: 385px;
+}
+.slider .carousel-caption h1,h2{
+	font-size:20px;
+}
+.slider .custom-btn {
+	border:2px solid #62a0d1;
+	padding:5px 10px;
+	transition:all .25s ease-in-out;
+	font-size:8px;
+	text-transform:uppercase;
+	border-radius:5px;
+	display:inline-block;
+	color:#000;
+	text-align:center;
+	border-bottom:3px solid #0166a7;
+}
+}
+
+@media screen and (max-width:480px){
+.footer-bottom-right{
+	float:left;
+}
+}
+
+@media screen and (max-width:400px){
+
+.slider .carousel-caption h1,h2{
+	font-size:10px;
+}
+.slider .carousel-caption h1,h2{
+	margin-top:-5px;
+}
+
+.portfolio-icon a{
+	width:25px;
+	height:25px;
+	line-height:25px;
+	font-size:12px;
+}
+.portfolio-icon{
+	left:40%;
+}
+.swiper-one .swiper-content{
+	width: 250px;
+}
+}
